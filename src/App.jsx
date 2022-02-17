@@ -1,24 +1,35 @@
-import './App.css'
-import logo from './logo.svg'
+import styled from 'styled-components'
+import { Header } from './components'
+import { Cart } from './modules'
+
+const AppWrapper = styled.div`
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  background-color: #eeeeee;
+`
+
+const MainWrapper = styled.div`
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+`
+
+const Main = styled.div`
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+`
 
 const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppWrapper>
+      <MainWrapper>
+        <Header />
+        <Main>{/* Here main content (products list) */}</Main>
+      </MainWrapper>
+      <Cart />
+    </AppWrapper>
   )
 }
 
