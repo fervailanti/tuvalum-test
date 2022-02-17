@@ -1,4 +1,6 @@
+import { useContext } from 'react'
 import styled from 'styled-components'
+import { CartContext } from '../contexts/cart'
 import { logo } from '../images'
 import Icon from './Icon'
 
@@ -27,10 +29,17 @@ const StyledIcon = styled(Icon)`
 `
 
 const Header = () => {
+  const [state, dispatch] = useContext(CartContext)
+  const toggleCart = () => dispatch({ type: 'TOGGLE_CART' })
   return (
     <StyledHeader>
       <HeaderImg src={logo} alt="logo" />
-      <StyledIcon name="ShoppingCart" size="sm" color="06e494" />
+      <StyledIcon
+        name={state.isOpen ? 'ShoppingCart' : 'ShoppingCartOutlined'}
+        size="sm"
+        color="06e494"
+        onClick={toggleCart}
+      />
     </StyledHeader>
   )
 }

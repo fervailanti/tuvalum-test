@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import { Header } from './components'
+import CartProvider from './contexts/cart'
 import { Cart } from './modules'
 
 const AppWrapper = styled.div`
@@ -23,13 +24,15 @@ const Main = styled.div`
 
 const App = () => {
   return (
-    <AppWrapper>
-      <MainWrapper>
-        <Header />
-        <Main>{/* Here main content (products list) */}</Main>
-      </MainWrapper>
-      <Cart />
-    </AppWrapper>
+    <CartProvider>
+      <AppWrapper>
+        <MainWrapper>
+          <Header />
+          <Main>{/* Here main content (products list) */}</Main>
+        </MainWrapper>
+        <Cart />
+      </AppWrapper>
+    </CartProvider>
   )
 }
 

@@ -13,11 +13,15 @@ const sizes = {
 
 // TODO: prop types
 
-const Icon = ({ name, className, color = 'black', size = 'sm' }) => {
+const Icon = ({ name, className, color = 'black', size = 'sm', onClick }) => {
   const TargetIcon = icons[name]
   const sizeValue = sizes[size]
   const iconStyle = { color, width: sizeValue, height: sizeValue }
-  return <TargetIcon style={iconStyle} className={className} />
+  return (
+    <div className={className} onClick={onClick}>
+      <TargetIcon style={iconStyle} />
+    </div>
+  )
 }
 
 export default Icon
