@@ -2,13 +2,14 @@ import { useContext } from 'react'
 import styled from 'styled-components'
 import { CartContext } from '../contexts/cart'
 import { logo } from '../images'
+import colors from '../utils/constants'
 import Icon from './Icon'
 import P from './P'
 
 const StyledHeader = styled.header`
   z-index: 50;
   padding: 16px;
-  background-color: white;
+  background-color: ${colors.white};
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
   display: flex;
   gap: 16px;
@@ -27,7 +28,7 @@ const CartIconWrapper = styled.div`
 `
 
 const CartCounter = styled.div`
-  background-color: red;
+  background-color: ${colors.red};
   height: 20px;
   width: 20px;
   border-radius: 160px;
@@ -48,10 +49,16 @@ const Header = () => {
     <StyledHeader>
       <HeaderImg src={logo} alt="logo" />
       <CartIconWrapper>
-        <Icon name="ShoppingCart" color="#06e494" onClick={openCart} cursor="pointer" size="lg" />
+        <Icon
+          name="ShoppingCart"
+          color={colors.primary}
+          onClick={openCart}
+          cursor="pointer"
+          size="lg"
+        />
         {showCartCounter && (
           <CartCounter>
-            <P color="white" bold size="xxxs">
+            <P color={colors.white} bold size="xxxs">
               {state.products.length}
             </P>
           </CartCounter>

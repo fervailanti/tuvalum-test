@@ -2,13 +2,14 @@ import styled from 'styled-components'
 import { Header } from './components'
 import CartProvider from './contexts/cart'
 import { Cart, Products } from './modules'
+import colors from './utils/constants'
 
 const AppWrapper = styled.div`
   display: flex;
   flex: 1;
   height: 100%;
   flex-direction: column;
-  background-color: #eeeeee;
+  background-color: ${colors.grayLight};
   @media (min-width: 640px) {
     flex-direction: row;
     overflow-x: hidden;

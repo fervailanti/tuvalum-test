@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { Button, Chip, Icon, P } from '../../components'
 import { CartContext } from '../../contexts/cart'
 import { formatCurrency, getPriceSumFromProducts } from '../../utils'
+import colors from '../../utils/constants'
 import EmptyState from './EmptyState'
 
 const CartWrapper = styled.div`
@@ -10,7 +11,7 @@ const CartWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #06e494;
+  background-color: ${colors.primary};
   overflow-y: auto;
   width: stretch;
   position: fixed;
@@ -56,7 +57,7 @@ const Footer = styled.div`
   width: stretch;
   align-items: center;
   justify-content: center;
-  border-top: solid 1px white;
+  border-top: solid 1px ${colors.white};
   gap: 8px;
   padding: 16px;
   margin: 0 16px;
@@ -96,8 +97,14 @@ const Cart = () => {
   return (
     <CartWrapper isOpen={state.isOpen}>
       <Header>
-        <Icon name="ArrowForward" color="white" onClick={closeCart} cursor="pointer" size="lg" />
-        <P size="sm" color="white">
+        <Icon
+          name="ArrowForward"
+          color={colors.white}
+          onClick={closeCart}
+          cursor="pointer"
+          size="lg"
+        />
+        <P size="sm" color={colors.white}>
           Shopping Cart
         </P>
       </Header>
@@ -110,10 +117,10 @@ const Cart = () => {
         {isEmpty ? <EmptyState /> : renderCartProducts()}
       </Content>
       <Footer>
-        <P color="white" size="md">
+        <P color={colors.white} size="md">
           Total:
         </P>
-        <P color="white" size="md" bold>
+        <P color={colors.white} size="md" bold>
           {formatCurrency(total)}
         </P>
       </Footer>

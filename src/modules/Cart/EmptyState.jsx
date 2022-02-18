@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import { Icon, P } from '../../components'
+import colors from '../../utils/constants'
 
 const Wrapper = styled.div`
   display: flex;
@@ -15,11 +16,11 @@ const Wrapper = styled.div`
 const EmptyState = () => {
   return (
     <Wrapper>
-      <Icon name="ShoppingBasket" size="2xl" color="white" />
-      <P size="md" color="white">
+      <Icon name="ShoppingBasket" size="2xl" color={colors.white} />
+      <P size="md" color={colors.white}>
         Your cart is empty
       </P>
-      <P size="xs" color="white" bold>
+      <P size="xs" color={colors.white} bold>
         Looks like you haven't added anything to your cart yet.
       </P>
     </Wrapper>

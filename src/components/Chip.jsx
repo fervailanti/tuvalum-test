@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 import { fallback } from '../images'
+import colors from '../utils/constants'
 import Button from './Button'
 import P from './P'
 
@@ -51,7 +52,7 @@ const Chip = ({ image, caption, title, subtitle, actionLabel, actionIcon, onClic
           </P>
         )}
         {!!subtitle && (
-          <P color="#06E494" bold size="xs">
+          <P color={colors.primary} bold size="xs">
             {subtitle}
           </P>
         )}

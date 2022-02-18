@@ -1,11 +1,12 @@
 import styled from 'styled-components'
 import { fallback } from '../images'
+import colors from '../utils/constants'
 import Button from './Button'
 import P from './P'
 
 const StyledCard = styled.div`
   width: 100%;
-  background-color: white;
+  background-color: ${colors.white};
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
@@ -33,7 +34,7 @@ const StyledContainer = styled.div`
   flex-direction: column;
   padding: 16px;
   gap: 1.5px;
-  background-color: white;
+  background-color: ${colors.white};
   z-index: 30;
 `
 
@@ -78,7 +79,7 @@ const Card = ({
         {(!!subtitle || !!actionLabel) && (
           <Bottom>
             {!!subtitle && (
-              <P color="#06E494" bold size="xs">
+              <P color={colors.primary} bold size="xs">
                 {subtitle}
               </P>
             )}

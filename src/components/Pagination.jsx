@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import ReactPaginate from 'react-paginate'
 import styled from 'styled-components'
+import colors from '../utils/constants'
 
 const productsPerPage = 12
 
@@ -16,7 +17,7 @@ const StyledPagination = styled(ReactPaginate)`
     height: 32px;
     min-width: 40px;
     border-radius: 32px;
-    border: #06e494 2px solid;
+    border: ${colors.primary} 2px solid;
     cursor: pointer;
     text-align: center;
     overflow: hidden;
@@ -29,12 +30,12 @@ const StyledPagination = styled(ReactPaginate)`
     justify-content: center;
   }
   li.active {
-    background-color: #06e494;
-    color: white;
+    background-color: ${colors.primary};
+    color: ${colors.white};
   }
   li.disabled {
-    color: #bbbbbb;
-    border-color: #cccccc;
+    color: ${colors.grayDark};
+    border-color: ${colors.grayMid};
   }
   li.disable,
   li.disabled a {

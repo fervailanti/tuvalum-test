@@ -1,10 +1,11 @@
 import styled from 'styled-components'
+import colors from '../utils/constants'
 import Icon from './Icon'
 import P from './P'
 
 const StyledButton = styled.button`
   margin-top: 4px;
-  background-color: #06e494;
+  background-color: ${colors.primary};
   outline: none;
   border: none;
   border-radius: 160px;
@@ -16,10 +17,10 @@ const StyledButton = styled.button`
   gap: 8px;
   transition: background-color 0.3s ease;
   &:hover {
-    background-color: #05b071;
+    background-color: ${colors.secondary};
   }
   &:disabled {
-    background-color: #cccccc;
+    background-color: ${colors.grayDark};
     cursor: not-allowed;
   }
 `
@@ -41,13 +42,13 @@ const Button = ({
       {!!icon && (
         <Icon
           name={icon}
-          color="white"
+          color={colors.white}
           size={iconSize}
           cursor={disabled ? 'not-allowed' : 'pointer'}
         />
       )}
       {!!children && (
-        <P color="white" size={textSize}>
+        <P color={colors.white} size={textSize}>
           {children}
         </P>
       )}
