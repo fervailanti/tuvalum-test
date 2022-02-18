@@ -4,23 +4,26 @@ import Button from './Button'
 import P from './P'
 
 const StyledCard = styled.div`
-  width: 18em;
+  width: 100%;
   background-color: white;
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
-  border-radius: 0.5em;
+  border-radius: 8px;
   overflow: hidden;
   &:hover {
     img {
       -webkit-transform: scale(1.15);
     }
   }
+  @media (min-width: 640px) {
+    width: 288px;
+  }
 `
 
 const StyledImg = styled.img`
   width: 100%;
-  height: 12em;
+  height: 192px;
   object-fit: cover;
   transition: all 0.3s ease;
 `
@@ -28,8 +31,8 @@ const StyledImg = styled.img`
 const StyledContainer = styled.div`
   display: flex;
   flex-direction: column;
-  padding: 1em;
-  gap: 0.1em;
+  padding: 16px;
+  gap: 1.5px;
   background-color: white;
   z-index: 30;
 `
@@ -41,7 +44,7 @@ const Title = styled(P)`
 `
 
 const Bottom = styled.div`
-  margin-top: 0.25em;
+  margin-top: 4px;
   display: flex;
   justify-content: space-between;
 `

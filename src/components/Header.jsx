@@ -5,18 +5,18 @@ import { logo } from '../images'
 import Icon from './Icon'
 
 const StyledHeader = styled.header`
-  z-index: 10;
-  padding: 1em;
+  z-index: 50;
+  padding: 16px;
   background-color: white;
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
   display: flex;
-  gap: 1em;
+  gap: 16px;
   justify-content: space-between;
   align-items: center;
 `
 
 const HeaderImg = styled.img`
-  height: 2.5em;
+  height: 40px;
   pointer-events: none;
 `
 
@@ -26,7 +26,7 @@ const Header = () => {
   return (
     <StyledHeader>
       <HeaderImg src={logo} alt="logo" />
-      <Icon name="ShoppingCart" color="#06e494" onClick={openCart} cursor="pointer" />
+      <Icon name="ShoppingCart" color="#06e494" onClick={openCart} cursor="pointer" size="lg" />
     </StyledHeader>
   )
 }

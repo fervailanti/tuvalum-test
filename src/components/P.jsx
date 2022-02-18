@@ -1,14 +1,14 @@
 import styled from 'styled-components'
 
 const sizes = {
-  xxs: '0.75em',
-  xs: '1em',
-  sm: '1.25em',
-  md: '1.5em',
-  lg: '2em',
-  xl: '2.5em',
-  '2xl': '3em',
-  '3xl': '4em',
+  xxs: '14px',
+  xs: '16px',
+  sm: '20px',
+  md: '24px',
+  lg: '32px',
+  xl: '40px',
+  '2xl': '48px',
+  '3xl': '64px',
 }
 
 const StyledP = styled.p`

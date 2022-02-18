@@ -6,14 +6,21 @@ import { endpoints } from '../../services/axios'
 import { checkAddedProduct, formatCurrency } from '../../utils'
 
 const ProductsWrapper = styled.div`
+  width: stretch;
   display: flex;
   flex: 1;
-  gap: 1.5em;
+  flex-direction: column;
+  gap: 16px;
   align-items: center;
   justify-content: center;
-  padding: 1.5em;
-  flex-wrap: wrap;
-  max-width: 1280px;
+  padding: 16px;
+  @media (min-width: 640px) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    padding: 24px;
+    gap: 24px;
+  }
 `
 
 const Products = () => {
@@ -24,7 +31,7 @@ const Products = () => {
     endpoints.getProducts().then(({ data }) => {
       setProducts(data)
     })
-  })
+  }, [])
 
   return (
     <ProductsWrapper>

@@ -7,18 +7,18 @@ const StyledChip = styled.div`
   background-color: white;
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
   display: flex;
-  border-radius: 0.5em;
+  border-radius: 8px;
   overflow: hidden;
   align-items: center;
-  padding: 1em;
-  gap: 0.75em;
+  padding: 16px;
+  gap: 12px;
 `
 
 const StyledImg = styled.img`
-  width: 3em;
-  height: 3em;
+  width: 48px;
+  height: 48px;
   object-fit: cover;
-  border-radius: 0.25em;
+  border-radius: 4px;
 `
 
 const StyledContainer = styled.div`
@@ -26,6 +26,7 @@ const StyledContainer = styled.div`
   flex: 1;
   flex-direction: column;
   width: 100%;
+  gap: 1px;
 `
 
 // TODO: prop types

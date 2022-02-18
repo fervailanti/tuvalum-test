@@ -7,13 +7,18 @@ const AppWrapper = styled.div`
   display: flex;
   flex: 1;
   height: 100%;
-  flex-direction: row;
+  flex-direction: column;
   background-color: #eeeeee;
+  @media (min-width: 640px) {
+    flex-direction: row;
+    overflow-x: hidden;
+  }
 `
 
 const MainWrapper = styled.div`
   display: flex;
   flex: 1;
+  height: 100%;
   flex-direction: column;
 `
 

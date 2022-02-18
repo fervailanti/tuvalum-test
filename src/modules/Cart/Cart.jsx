@@ -6,43 +6,64 @@ import { formatCurrency, getPriceSumFromProducts } from '../../utils'
 import EmptyState from './EmptyState'
 
 const CartWrapper = styled.div`
-  z-index: 20;
+  z-index: 40;
   display: flex;
-  overflow-y: auto;
   flex-direction: column;
   align-items: center;
-  width: 24em;
   background-color: #06e494;
-  padding: 1.25em;
-  transition: margin-right 0.5s ease;
-  margin-right: ${(props) => (props.isOpen ? '0' : '-26.5em')};
+  overflow-y: auto;
+  width: stretch;
+  position: fixed;
+  top: 72px;
+  bottom: 0px;
+  right: ${(props) => (props.isOpen ? '0' : '-100%')};
+  transition: right 0.5s ease;
+  @media (min-width: 640px) {
+    z-index: 60;
+    width: 384px;
+    height: 100%;
+    position: static;
+    margin-right: ${(props) => (props.isOpen ? '0' : '-384px')};
+    transition: margin-right 0.5s ease;
+  }
 `
 
 const Header = styled.div`
   display: flex;
-  width: 100%;
+  width: stretch;
   align-items: center;
-  gap: 1em;
+  gap: 16px;
+  padding: 16px;
+  @media (min-width: 640px) {
+    padding: 20px;
+  }
 `
 
 const Content = styled.div`
   display: flex;
   flex: 1;
-  width: 100%;
-  padding: 1.5em 0;
+  width: stretch;
+  padding: 0 16px 16px 16px;
   flex-direction: column;
-  gap: 0.75em;
+  gap: 12px;
+  @media (min-width: 640px) {
+    padding: 0 20px 20px 20px;
+  }
 `
 
 const Footer = styled.div`
   display: flex;
-  width: 75%;
+  width: stretch;
   align-items: center;
   justify-content: center;
   border-top: solid 1px white;
-  padding-top: 1.5em;
-  padding-bottom: 0.5em;
-  gap: 0.5em;
+  gap: 8px;
+  padding: 16px;
+  margin: 0 16px;
+  @media (min-width: 640px) {
+    padding: 20px;
+    margin: 0 20px;
+  }
 `
 
 const Cart = () => {
@@ -75,7 +96,7 @@ const Cart = () => {
   return (
     <CartWrapper isOpen={state.isOpen}>
       <Header>
-        <Icon name="ArrowForward" color="white" onClick={closeCart} cursor="pointer" />
+        <Icon name="ArrowForward" color="white" onClick={closeCart} cursor="pointer" size="lg" />
         <P size="sm" color="white">
           Shopping Cart
         </P>

@@ -7,15 +7,15 @@ const Wrapper = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 0.3em;
+  gap: 4px;
   text-align: center;
-  padding: 0 2em;
+  padding: 0 32px;
 `
 
 const EmptyState = () => {
   return (
     <Wrapper>
-      <Icon name="ShoppingBasket" size="xl" color="white" />
+      <Icon name="ShoppingBasket" size="2xl" color="white" />
       <P size="md" color="white">
         Your cart is empty
       </P>

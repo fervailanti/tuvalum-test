@@ -3,17 +3,17 @@ import Icon from './Icon'
 import P from './P'
 
 const StyledButton = styled.button`
-  margin-top: 0.25em;
+  margin-top: 4px;
   background-color: #06e494;
   outline: none;
   border: none;
-  border-radius: 10em;
-  padding: 0.5em ${(props) => (props.isIconOnly ? '0.5em' : '1em')};
+  border-radius: 160px;
+  padding: 8px ${(props) => (props.isIconOnly ? '8px' : '16px')};
   cursor: pointer;
   align-self: ${(props) => props.align};
   display: flex;
   align-items: center;
-  gap: 0.5em;
+  gap: 8px;
   transition: background-color 0.3s ease;
   &:hover {
     background-color: #05b071;
@@ -31,7 +31,7 @@ const Button = ({
   icon,
   align = 'center',
   textSize = 'xs',
-  iconSize = 'xxs',
+  iconSize = 'xs',
   disabled = false,
   ...props
 }) => {
