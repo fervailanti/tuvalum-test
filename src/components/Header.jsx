@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { CartContext } from '../contexts/cart'
 import { logo } from '../images'
 import Icon from './Icon'
+import P from './P'
 
 const StyledHeader = styled.header`
   z-index: 50;
@@ -20,13 +21,42 @@ const HeaderImg = styled.img`
   pointer-events: none;
 `
 
+const CartIconWrapper = styled.div`
+  position: relative;
+  padding: 2px;
+`
+
+const CartCounter = styled.div`
+  background-color: red;
+  height: 20px;
+  width: 20px;
+  border-radius: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.2);
+`
+
 const Header = () => {
-  const [, dispatch] = useContext(CartContext)
+  const [state, dispatch] = useContext(CartContext)
   const openCart = () => dispatch({ type: 'OPEN_CART' })
+  const showCartCounter = state.products.length > 0
   return (
     <StyledHeader>
       <HeaderImg src={logo} alt="logo" />
-      <Icon name="ShoppingCart" color="#06e494" onClick={openCart} cursor="pointer" size="lg" />
+      <CartIconWrapper>
+        <Icon name="ShoppingCart" color="#06e494" onClick={openCart} cursor="pointer" size="lg" />
+        {showCartCounter && (
+          <CartCounter>
+            <P color="white" bold size="xxxs">
+              {state.products.length}
+            </P>
+          </CartCounter>
+        )}
+      </CartIconWrapper>
     </StyledHeader>
   )
 }
