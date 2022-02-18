@@ -1,16 +1,24 @@
 const CartReducer = (state, action) => {
   const actions = {
-    TOGGLE_CART: () => ({
+    OPEN_CART: () => ({
       ...state,
-      isOpen: !state.isOpen,
+      isOpen: true,
     }),
-    ADD_PRODUCT: () => ({
+    CLOSE_CART: () => ({
+      ...state,
+      isOpen: false,
+    }),
+    ADD_CART_PRODUCT: () => ({
       ...state,
       products: [...state.products, action.payload],
     }),
-    REMOVE_PRODUCT: () => ({
+    REMOVE_CART_PRODUCT: () => ({
       ...state,
       products: state.products.filter((product) => product.id !== action.payload),
+    }),
+    REMOVE_ALL_PRODUCTS: () => ({
+      ...state,
+      products: [],
     }),
     default: () => state,
   }

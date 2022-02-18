@@ -20,26 +20,13 @@ const HeaderImg = styled.img`
   pointer-events: none;
 `
 
-const StyledIcon = styled(Icon)`
-  transition: opacity 0.3s;
-  &:hover {
-    cursor: pointer;
-    opacity: 0.5;
-  }
-`
-
 const Header = () => {
-  const [state, dispatch] = useContext(CartContext)
-  const toggleCart = () => dispatch({ type: 'TOGGLE_CART' })
+  const [, dispatch] = useContext(CartContext)
+  const openCart = () => dispatch({ type: 'OPEN_CART' })
   return (
     <StyledHeader>
       <HeaderImg src={logo} alt="logo" />
-      <StyledIcon
-        name={state.isOpen ? 'ShoppingCart' : 'ShoppingCartOutlined'}
-        size="sm"
-        color="06e494"
-        onClick={toggleCart}
-      />
+      <Icon name="ShoppingCart" color="#06e494" onClick={openCart} cursor="pointer" />
     </StyledHeader>
   )
 }

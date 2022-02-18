@@ -1,11 +1,12 @@
 import styled from 'styled-components'
 import { Header } from './components'
 import CartProvider from './contexts/cart'
-import { Cart } from './modules'
+import { Cart, Products } from './modules'
 
 const AppWrapper = styled.div`
   display: flex;
   flex: 1;
+  height: 100%;
   flex-direction: row;
   background-color: #eeeeee;
 `
@@ -20,6 +21,8 @@ const Main = styled.div`
   display: flex;
   flex: 1;
   flex-direction: column;
+  align-items: center;
+  overflow-y: auto;
 `
 
 const App = () => {
@@ -28,7 +31,9 @@ const App = () => {
       <AppWrapper>
         <MainWrapper>
           <Header />
-          <Main>{/* Here main content (products list) */}</Main>
+          <Main>
+            <Products />
+          </Main>
         </MainWrapper>
         <Cart />
       </AppWrapper>

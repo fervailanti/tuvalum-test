@@ -1,4 +1,5 @@
 import * as icons from '@material-ui/icons'
+import styled from 'styled-components'
 
 const sizes = {
   xxs: '0.75em',
@@ -11,16 +12,23 @@ const sizes = {
   '3xl': '4em',
 }
 
+const IconWrapper = styled.div`
+  cursor: ${(props) => props.cursor || 'auto'};
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`
+
 // TODO: prop types
 
-const Icon = ({ name, className, color = 'black', size = 'sm', onClick }) => {
+const Icon = ({ name, className, color = 'black', size = 'sm', onClick, cursor }) => {
   const TargetIcon = icons[name]
   const sizeValue = sizes[size]
   const iconStyle = { color, width: sizeValue, height: sizeValue }
   return (
-    <div className={className} onClick={onClick}>
+    <IconWrapper className={className} onClick={onClick} cursor={cursor}>
       <TargetIcon style={iconStyle} />
-    </div>
+    </IconWrapper>
   )
 }
 

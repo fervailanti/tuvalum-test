@@ -12,16 +12,20 @@ const sizes = {
 }
 
 const StyledP = styled.p`
-  color: ${({ color }) => color || 'black'};
-  font-size: ${({ size }) => sizes[size || 'xs']};
+  color: ${({ color }) => color};
+  font-size: ${({ size }) => sizes[size]};
   font-weight: ${({ bold }) => (bold ? '600' : '300')};
   margin: 0;
 `
 
 // TODO: type props
 
-const P = (props) => {
-  return <StyledP {...props}>{props.children}</StyledP>
+const P = ({ color = 'black', size = 'xs', bold = false, ...props }) => {
+  return (
+    <StyledP color={color} size={size} bold={bold} {...props}>
+      {props.children}
+    </StyledP>
+  )
 }
 
 export default P

@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 79317,
-      "title": "Scott Scale (2020)",
+      "title": "Scott Scale",
       "year": "2020",
       "price": "1.772",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61fa956153e35.jpg"
@@ -16,84 +16,84 @@
     },
     {
       "id": 79271,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "3.763",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f6e0a6aff84.jpg"
     },
     {
       "id": 79261,
-      "title": "Scott Foil (2015)",
+      "title": "Scott Foil",
       "year": "2015",
       "price": "2.663",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f9752876dba.jpg"
     },
     {
       "id": 79247,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "5.045",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f834a69debb.jpg"
     },
     {
       "id": 79243,
-      "title": "Cannondale Scalpel SE (2019)",
+      "title": "Cannondale Scalpel SE",
       "year": "2019",
       "price": "2.963",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f52fd8b309e.jpg"
     },
     {
       "id": 79239,
-      "title": "Scott Scale (2019)",
+      "title": "Scott Scale",
       "year": "2019",
       "price": "1.063",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f83da01a97d.jpg"
     },
     {
       "id": 79227,
-      "title": "Cannondale F-Si (2017)",
+      "title": "Cannondale F-Si",
       "year": "2017",
       "price": "1.900",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f959ad9ceeb.jpg"
     },
     {
       "id": 79221,
-      "title": "Cannondale F29 (2016)",
+      "title": "Cannondale F29",
       "year": "2016",
       "price": "1.625",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f821c352200.jpg"
     },
     {
       "id": 79212,
-      "title": "Cannondale SUPERSIX EVO HI-MOD DISC ULTEGRA DI2 (2022)",
+      "title": "Cannondale SUPERSIX EVO HI-MOD DISC ULTEGRA DI2",
       "year": "2022",
       "price": "7.794",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f92add36b07.jpg"
     },
     {
       "id": 79209,
-      "title": "Scott Spark (2017)",
+      "title": "Scott Spark",
       "year": "2017",
       "price": "2.524",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f936c84e4bd.jpg"
     },
     {
       "id": 79199,
-      "title": "Scott Plasma (2018)",
+      "title": "Scott Plasma",
       "year": "2018",
       "price": "4.135",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f925dcdb698.jpg"
     },
     {
       "id": 79153,
-      "title": "Cannondale Scalpel (2022)",
+      "title": "Cannondale Scalpel",
       "year": "2022",
       "price": "5.923",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f8eb279d738.jpg"
     },
     {
       "id": 79152,
-      "title": "Cannondale Scalpel (2020)",
+      "title": "Cannondale Scalpel",
       "year": "2020",
       "price": "4.168",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f8ec2d9ff1b.jpg"
@@ -107,28 +107,28 @@
     },
     {
       "id": 79143,
-      "title": "Cannondale F29 (2015)",
+      "title": "Cannondale F29",
       "year": "2015",
       "price": "1.418",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f6a88babb9f.jpg"
     },
     {
       "id": 79134,
-      "title": "Scott Foil (2021)",
+      "title": "Scott Foil",
       "year": "2021",
       "price": "4.936",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f3caa65aecb.jpg"
     },
     {
       "id": 79127,
-      "title": "Scott Genius (2018)",
+      "title": "Scott Genius",
       "year": "2018",
       "price": "3.363",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f3bd824e235.jpg"
     },
     {
       "id": 79122,
-      "title": "Scott Scale (2017)",
+      "title": "Scott Scale",
       "year": "2017",
       "price": "1.418",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f3964f6b82d.jpg"
@@ -142,21 +142,21 @@
     },
     {
       "id": 79107,
-      "title": "Cannondale Scalpel SE (2020)",
+      "title": "Cannondale Scalpel SE",
       "year": "2020",
       "price": "4.497",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f6578e13d9f.jpg"
     },
     {
       "id": 79101,
-      "title": "Cannondale Trail (2018)",
+      "title": "Cannondale Trail",
       "year": "2018",
       "price": "895",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f290ef158cf.jpg"
     },
     {
       "id": 79097,
-      "title": "Scott CR1 (2012)",
+      "title": "Scott CR1",
       "year": "2012",
       "price": "969",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f27d75ef8b0.jpg"
@@ -170,49 +170,49 @@
     },
     {
       "id": 79083,
-      "title": "Scott E-Aspect (2020)",
+      "title": "Scott E-Aspect",
       "year": "2020",
       "price": "2.199",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f233b184da1.jpg"
     },
     {
       "id": 79080,
-      "title": "Cannondale Synapse Carbon (2022)",
+      "title": "Cannondale Synapse Carbon",
       "year": "2022",
       "price": "4.036",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f7bfaecc2ab.jpg"
     },
     {
       "id": 79072,
-      "title": "Scott Speedster (2017)",
+      "title": "Scott Speedster",
       "year": "2017",
       "price": "975",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f269f90a4c4.jpg"
     },
     {
       "id": 79070,
-      "title": "Scott Scale (2021)",
+      "title": "Scott Scale",
       "year": "2021",
       "price": "1.890",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f2e6e6d5f0f.jpg"
     },
     {
       "id": 79069,
-      "title": "Cannondale Super Six Evo (2020)",
+      "title": "Cannondale Super Six Evo",
       "year": "2020",
       "price": "5.000",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f7af0b153aa.jpg"
     },
     {
       "id": 79063,
-      "title": "Cannondale Scalpel (2013)",
+      "title": "Cannondale Scalpel",
       "year": "2013",
       "price": "1.772",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f1b76d98850.jpg"
     },
     {
       "id": 79045,
-      "title": "Cannondale F29 (2015)",
+      "title": "Cannondale F29",
       "year": "2015",
       "price": "870",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f7ea7daf64c.jpg"
@@ -226,7 +226,7 @@
     },
     {
       "id": 79034,
-      "title": "Scott Scale (2021)",
+      "title": "Scott Scale",
       "year": "2021",
       "price": "2.813",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f2477f40a69.jpg"
@@ -240,182 +240,182 @@
     },
     {
       "id": 79014,
-      "title": "Cannondale Scalpel SE (2018)",
+      "title": "Cannondale Scalpel SE",
       "year": "2018",
       "price": "2.638",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f6f97b9a085.jpg"
     },
     {
       "id": 78999,
-      "title": "Cannondale Slice (2014)",
+      "title": "Cannondale Slice",
       "year": "2014",
       "price": "2.863",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f04b11bc2b2.jpg"
     },
     {
       "id": 78998,
-      "title": "Scott Speedster (2018)",
+      "title": "Scott Speedster",
       "year": "2018",
       "price": "805",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f31394dc84a.jpg"
     },
     {
       "id": 78993,
-      "title": "Cannondale F29 (2015)",
+      "title": "Cannondale F29",
       "year": "2015",
       "price": "1.772",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f45cd520503.jpg"
     },
     {
       "id": 78991,
-      "title": "Scott E-Spark (2018)",
+      "title": "Scott E-Spark",
       "year": "2018",
       "price": "3.313",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f3926c0f610.jpg"
     },
     {
       "id": 78987,
-      "title": "Scott Addict (2019)",
+      "title": "Scott Addict",
       "year": "2019",
       "price": "1.890",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f46b7e2ae6d.jpg"
     },
     {
       "id": 78986,
-      "title": "Cannondale F-Si (2021)",
+      "title": "Cannondale F-Si",
       "year": "2021",
       "price": "2.068",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f03f87d35b1.jpg"
     },
     {
       "id": 78976,
-      "title": "Scott Scale (2021)",
+      "title": "Scott Scale",
       "year": "2021",
       "price": "2.513",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61eff30025711.jpg"
     },
     {
       "id": 78971,
-      "title": "Scott Scale (2016)",
+      "title": "Scott Scale",
       "year": "2016",
       "price": "1.182",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61efeacbda391.jpg"
     },
     {
       "id": 78918,
-      "title": "Scott Foil (2019)",
+      "title": "Scott Foil",
       "year": "2019",
       "price": "2.374",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61eeaeb6d2d04.jpg"
     },
     {
       "id": 78917,
-      "title": "Scott Spark (2013)",
+      "title": "Scott Spark",
       "year": "2013",
       "price": "1.300",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f27c2b0b980.jpg"
     },
     {
       "id": 78909,
-      "title": "Cannondale MOTERRA NEO CARBON 2 (2021)",
+      "title": "Cannondale MOTERRA NEO CARBON 2",
       "year": "2021",
       "price": "6.264",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f25e096ba90.jpg"
     },
     {
       "id": 78895,
-      "title": "Cannondale Moterra Habit Neo 2 (2022)",
+      "title": "Cannondale Moterra Habit Neo 2",
       "year": "2022",
       "price": "6.264",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f17557f0180.jpg"
     },
     {
       "id": 78884,
-      "title": "Scott Scale (2021)",
+      "title": "Scott Scale",
       "year": "2021",
       "price": "1.041",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f03abbec8f4.jpg"
     },
     {
       "id": 78854,
-      "title": "Cannondale HABIT NEO CARBON 3 (2021)",
+      "title": "Cannondale HABIT NEO CARBON 3",
       "year": "2021",
       "price": "5.583",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f125d3d3b45.jpg"
     },
     {
       "id": 78852,
-      "title": "Scott Scale 940 (2021)",
+      "title": "Scott Scale 940",
       "year": "2021",
       "price": "1.650",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f12eb98e982.jpg"
     },
     {
       "id": 78843,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "2.863",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f01690814cc.jpg"
     },
     {
       "id": 78820,
-      "title": "Cannondale Super SIx (2012)",
+      "title": "Cannondale Super SIx",
       "year": "2012",
       "price": "1.350",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61f01c3f5200c.jpg"
     },
     {
       "id": 78799,
-      "title": "Cannondale F-Si (2016)",
+      "title": "Cannondale F-Si",
       "year": "2016",
       "price": "1.654",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61eb2e2310655.jpg"
     },
     {
       "id": 78774,
-      "title": "Cannondale  (2017)",
+      "title": "Cannondale ",
       "year": "2017",
       "price": "2.803",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61efc394deb80.jpg"
     },
     {
       "id": 78770,
-      "title": "Cannondale Scalpel Carbon HT 4 (2022)",
+      "title": "Cannondale Scalpel Carbon HT 4",
       "year": "2022",
       "price": "2.381",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61efd2ae7616f.jpg"
     },
     {
       "id": 78751,
-      "title": "Scott Scale (2014)",
+      "title": "Scott Scale",
       "year": "2014",
       "price": "1.355",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ed8dbbca1f1.jpg"
     },
     {
       "id": 78750,
-      "title": "Scott Scale (2020)",
+      "title": "Scott Scale",
       "year": "2020",
       "price": "1.254",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61eed62f0c749.jpg"
     },
     {
       "id": 78748,
-      "title": "Scott E-Spark (2019)",
+      "title": "Scott E-Spark",
       "year": "2019",
       "price": "3.263",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61eeb5a9ab7af.jpg"
     },
     {
       "id": 78728,
-      "title": "Scott Scale (2017)",
+      "title": "Scott Scale",
       "year": "2017",
       "price": "1.182",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ea93c9f021b.jpg"
     },
     {
       "id": 78699,
-      "title": "Scott Spark (2018)",
+      "title": "Scott Spark",
       "year": "2018",
       "price": "2.915",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ee85c6b1845.jpg"
@@ -429,168 +429,168 @@
     },
     {
       "id": 78660,
-      "title": "Cannondale F-Si (2019)",
+      "title": "Cannondale F-Si",
       "year": "2019",
       "price": "2.963",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ec5fb274218.jpg"
     },
     {
       "id": 78656,
-      "title": "Scott Spark (2022)",
+      "title": "Scott Spark",
       "year": "2022",
       "price": "4.255",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ebf582f2982.jpg"
     },
     {
       "id": 78655,
-      "title": "Cannondale F-Si (2019)",
+      "title": "Cannondale F-Si",
       "year": "2019",
       "price": "2.317",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ed0720cd210.jpg"
     },
     {
       "id": 78654,
-      "title": "Scott Addict (2022)",
+      "title": "Scott Addict",
       "year": "2022",
       "price": "5.183",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ebf6f359f75.jpg"
     },
     {
       "id": 78648,
-      "title": "Scott E-Genius (2017)",
+      "title": "Scott E-Genius",
       "year": "2017",
       "price": "3.024",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e8965da499b.jpg"
     },
     {
       "id": 78644,
-      "title": "Cannondale Trail (2022)",
+      "title": "Cannondale Trail",
       "year": "2022",
       "price": "583",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61edc3fba968f.jpg"
     },
     {
       "id": 78637,
-      "title": "Cannondale Supersix EVO (2022)",
+      "title": "Cannondale Supersix EVO",
       "year": "2022",
       "price": "2.354",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61eccf2bb783b.jpg"
     },
     {
       "id": 78634,
-      "title": "Cannondale F-Si (2022)",
+      "title": "Cannondale F-Si",
       "year": "2022",
       "price": "2.466",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ebe74023452.jpg"
     },
     {
       "id": 78631,
-      "title": "Scott Spark (2022)",
+      "title": "Scott Spark",
       "year": "2022",
       "price": "5.281",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ebf4f8bc521.jpg"
     },
     {
       "id": 78630,
-      "title": "Scott Scale (2022)",
+      "title": "Scott Scale",
       "year": "2022",
       "price": "3.472",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ebf8a392f9b.jpg"
     },
     {
       "id": 78588,
-      "title": "Cannondale Supersix EVO (2021)",
+      "title": "Cannondale Supersix EVO",
       "year": "2021",
       "price": "5.813",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e984644c63a.jpg"
     },
     {
       "id": 78582,
-      "title": "Scott Addict (2019)",
+      "title": "Scott Addict",
       "year": "2019",
       "price": "1.772",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e9af3f5d213.jpg"
     },
     {
       "id": 78546,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "8.445",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e938ff7c398.jpg"
     },
     {
       "id": 78539,
-      "title": "Cannondale SCALPEL HT4 (2022)",
+      "title": "Cannondale SCALPEL HT4",
       "year": "2022",
       "price": "2.377",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e92971674ee.jpg"
     },
     {
       "id": 78535,
-      "title": "Cannondale SCALPEL HT 4 (2022)",
+      "title": "Cannondale SCALPEL HT 4",
       "year": "2022",
       "price": "2.377",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e926a71d742.jpg"
     },
     {
       "id": 78517,
-      "title": "Cannondale SCALPEL HT 4 (2022)",
+      "title": "Cannondale SCALPEL HT 4",
       "year": "2022",
       "price": "2.377",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e94da91101e.jpg"
     },
     {
       "id": 78513,
-      "title": "Cannondale SCALPEL HT 4 (2022)",
+      "title": "Cannondale SCALPEL HT 4",
       "year": "2022",
       "price": "2.377",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e924c3732c0.jpg"
     },
     {
       "id": 78510,
-      "title": "Cannondale F-Si (2020)",
+      "title": "Cannondale F-Si",
       "year": "2020",
       "price": "1.949",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e8123eb5087.jpg"
     },
     {
       "id": 78489,
-      "title": "Scott Addict Gravel (2019)",
+      "title": "Scott Addict Gravel",
       "year": "2019",
       "price": "4.450",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e827b5616a8.jpg"
     },
     {
       "id": 78483,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "3.833",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e821100d7f5.jpg"
     },
     {
       "id": 78472,
-      "title": "Cannondale SCALPEL HT 3 (2022)",
+      "title": "Cannondale SCALPEL HT 3",
       "year": "2022",
       "price": "3.139",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e7fa5c88fef.jpg"
     },
     {
       "id": 78469,
-      "title": "Cannondale SCALPEL HT 3 (2022)",
+      "title": "Cannondale SCALPEL HT 3",
       "year": "2022",
       "price": "3.139",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e7fb5616747.jpg"
     },
     {
       "id": 78468,
-      "title": "Cannondale SCALPEL HT 4 (2022)",
+      "title": "Cannondale SCALPEL HT 4",
       "year": "2022",
       "price": "2.377",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e7fca586c33.jpg"
     },
     {
       "id": 78446,
-      "title": "Cannondale Scalpel (2020)",
+      "title": "Cannondale Scalpel",
       "year": "2020",
       "price": "3.263",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e6cb2a02692.jpg"
@@ -604,252 +604,252 @@
     },
     {
       "id": 78438,
-      "title": "Cannondale F-Si (2016)",
+      "title": "Cannondale F-Si",
       "year": "2016",
       "price": "1.016",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5f4c4e9434.jpg"
     },
     {
       "id": 78432,
-      "title": "Scott Spark (2019)",
+      "title": "Scott Spark",
       "year": "2019",
       "price": "4.483",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e7d108944c2.jpg"
     },
     {
       "id": 78430,
-      "title": "Scott Spark (2019)",
+      "title": "Scott Spark",
       "year": "2019",
       "price": "3.024",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5fa6a0e658.jpg"
     },
     {
       "id": 78424,
-      "title": "Cannondale Scalpel (2022)",
+      "title": "Cannondale Scalpel",
       "year": "2022",
       "price": "4.473",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e6bf2dc8941.jpg"
     },
     {
       "id": 78419,
-      "title": "Scott Addict (2020)",
+      "title": "Scott Addict",
       "year": "2020",
       "price": "7.240",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e6fa023b7d6.jpg"
     },
     {
       "id": 78388,
-      "title": "Scott Addict (2019)",
+      "title": "Scott Addict",
       "year": "2019",
       "price": "2.241",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e6aa0c7b940.jpg"
     },
     {
       "id": 78381,
-      "title": "Scott Scale (2016)",
+      "title": "Scott Scale",
       "year": "2016",
       "price": "1.512",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5a362a082d.jpg"
     },
     {
       "id": 78378,
-      "title": "Cannondale SUPERSIX EVO HI MOD (2021)",
+      "title": "Cannondale SUPERSIX EVO HI MOD",
       "year": "2021",
       "price": "4.619",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e69e262cca8.jpg"
     },
     {
       "id": 78370,
-      "title": "Cannondale Adventure Neo 4 (2022)",
+      "title": "Cannondale Adventure Neo 4",
       "year": "2022",
       "price": "2.382",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e6967bf0f87.jpg"
     },
     {
       "id": 78361,
-      "title": "Cannondale Scalpel (2018)",
+      "title": "Cannondale Scalpel",
       "year": "2018",
       "price": "2.663",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e66598cda50.jpg"
     },
     {
       "id": 78353,
-      "title": "Cannondale Trail 8 (2022)",
+      "title": "Cannondale Trail 8",
       "year": "2022",
       "price": "667",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5a4113db54.jpg"
     },
     {
       "id": 78352,
-      "title": "Cannondale Trail 3 SE (2022)",
+      "title": "Cannondale Trail 3 SE",
       "year": "2022",
       "price": "1.239",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5ae4fbff8b.jpg"
     },
     {
       "id": 78351,
-      "title": "Cannondale Trail 4 (2022)",
+      "title": "Cannondale Trail 4",
       "year": "2022",
       "price": "1.048",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5ac25a9a47.jpg"
     },
     {
       "id": 78350,
-      "title": "Cannondale Trail 6 (2022)",
+      "title": "Cannondale Trail 6",
       "year": "2022",
       "price": "858",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5a8c4c4bda.jpg"
     },
     {
       "id": 78347,
-      "title": "Cannondale Trail 7 (2022)",
+      "title": "Cannondale Trail 7",
       "year": "2022",
       "price": "762",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5aa2ecd30f.jpg"
     },
     {
       "id": 78346,
-      "title": "Cannondale Caad10 (2015)",
+      "title": "Cannondale Caad10",
       "year": "2015",
       "price": "1.359",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e315aa44472.jpg"
     },
     {
       "id": 78340,
-      "title": "Scott Addict (2021)",
+      "title": "Scott Addict",
       "year": "2021",
       "price": "4.607",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e553797959f.jpg"
     },
     {
       "id": 78333,
-      "title": "Cannondale Supersix EVO (2015)",
+      "title": "Cannondale Supersix EVO",
       "year": "2015",
       "price": "1.607",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e5474244373.jpg"
     },
     {
       "id": 78331,
-      "title": "Cannondale Trail 6 (2022)",
+      "title": "Cannondale Trail 6",
       "year": "2022",
       "price": "858",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e58451466c5.jpg"
     },
     {
       "id": 78328,
-      "title": "Scott Ransom (2019)",
+      "title": "Scott Ransom",
       "year": "2019",
       "price": "3.663",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e523e28195a.jpg"
     },
     {
       "id": 78324,
-      "title": "Scott Foil (2017)",
+      "title": "Scott Foil",
       "year": "2017",
       "price": "2.863",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e57a4139315.jpg"
     },
     {
       "id": 78292,
-      "title": "Cannondale Synapse Carbon (2022)",
+      "title": "Cannondale Synapse Carbon",
       "year": "2022",
       "price": "3.526",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e55a48517b5.jpg"
     },
     {
       "id": 78289,
-      "title": "Cannondale Trail (2013)",
+      "title": "Cannondale Trail",
       "year": "2013",
       "price": "945",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e30285bac0b.jpg"
     },
     {
       "id": 78287,
-      "title": "Scott Scale (2019)",
+      "title": "Scott Scale",
       "year": "2019",
       "price": "1.595",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e308c207ff1.jpg"
     },
     {
       "id": 78275,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "5.758",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e44c7233066.jpg"
     },
     {
       "id": 78272,
-      "title": "Cannondale Scalpel (2016)",
+      "title": "Cannondale Scalpel",
       "year": "2016",
       "price": "2.803",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e546e7002a4.jpg"
     },
     {
       "id": 78271,
-      "title": "Cannondale Topstone (2021)",
+      "title": "Cannondale Topstone",
       "year": "2021",
       "price": "1.230",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e54da27319e.jpg"
     },
     {
       "id": 78254,
-      "title": "Scott Genius (2015)",
+      "title": "Scott Genius",
       "year": "2015",
       "price": "1.725",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e3bf9f18ac3.jpg"
     },
     {
       "id": 78249,
-      "title": "Scott E-Spark (2018)",
+      "title": "Scott E-Spark",
       "year": "2018",
       "price": "3.124",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e1d6ac9e426.jpg"
     },
     {
       "id": 78248,
-      "title": "Scott Speedster (2018)",
+      "title": "Scott Speedster",
       "year": "2018",
       "price": "1.080",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e3df631a0c3.jpg"
     },
     {
       "id": 78224,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "1.568",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e2a902f3c50.jpg"
     },
     {
       "id": 78223,
-      "title": "Scott Spark (2019)",
+      "title": "Scott Spark",
       "year": "2019",
       "price": "3.763",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e1c3bac8d71.jpg"
     },
     {
       "id": 78204,
-      "title": "Scott Addict (2020)",
+      "title": "Scott Addict",
       "year": "2020",
       "price": "7.984",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e2b6ba019b2.jpg"
     },
     {
       "id": 78198,
-      "title": "Scott Scale (2020)",
+      "title": "Scott Scale",
       "year": "2020",
       "price": "2.127",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e17d1abc7fb.jpg"
     },
     {
       "id": 78174,
-      "title": "Scott Scale (2022)",
+      "title": "Scott Scale",
       "year": "2022",
       "price": "2.577",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ec05ae413e5.jpg"
     },
     {
       "id": 78169,
-      "title": "Cannondale Trail (2019)",
+      "title": "Cannondale Trail",
       "year": "2019",
       "price": "958",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e1223975b79.jpg"
@@ -863,7 +863,7 @@
     },
     {
       "id": 78145,
-      "title": "Scott Foil (2018)",
+      "title": "Scott Foil",
       "year": "2018",
       "price": "2.463",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61e017fe74d7f.jpg"
@@ -877,63 +877,63 @@
     },
     {
       "id": 78126,
-      "title": "Scott Spark (2021)",
+      "title": "Scott Spark",
       "year": "2021",
       "price": "5.429",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61df33d2e3ad0.jpg"
     },
     {
       "id": 78112,
-      "title": "Scott Scale (2022)",
+      "title": "Scott Scale",
       "year": "2022",
       "price": "3.474",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61dfef48a6e9c.jpg"
     },
     {
       "id": 78094,
-      "title": "Cannondale Habit (2017)",
+      "title": "Cannondale Habit",
       "year": "2017",
       "price": "1.004",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61de962ddcb13.jpg"
     },
     {
       "id": 78092,
-      "title": "Scott Spark (2019)",
+      "title": "Scott Spark",
       "year": "2019",
       "price": "3.963",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61de9f846da6b.jpg"
     },
     {
       "id": 78091,
-      "title": "Scott Addict (2019)",
+      "title": "Scott Addict",
       "year": "2019",
       "price": "1.630",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61dea58c6d3c8.jpg"
     },
     {
       "id": 78077,
-      "title": "Scott Addict (2021)",
+      "title": "Scott Addict",
       "year": "2021",
       "price": "5.284",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ddc34a381c5.jpg"
     },
     {
       "id": 78058,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "3.699",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61de04568a1f8.jpg"
     },
     {
       "id": 78053,
-      "title": "Scott Aspect (2021)",
+      "title": "Scott Aspect",
       "year": "2021",
       "price": "805",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61de2bd393544.jpg"
     },
     {
       "id": 78015,
-      "title": "Scott Spark (2021)",
+      "title": "Scott Spark",
       "year": "2021",
       "price": "7.545",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61dc2b6d7ddee.jpg"
@@ -954,7 +954,7 @@
     },
     {
       "id": 77980,
-      "title": "Cannondale Synapse (2019)",
+      "title": "Cannondale Synapse",
       "year": "2019",
       "price": "2.724",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61dd3078c0621.jpg"
@@ -968,7 +968,7 @@
     },
     {
       "id": 77923,
-      "title": "Cannondale Synapse (2018)",
+      "title": "Cannondale Synapse",
       "year": "2018",
       "price": "1.687",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d88372d439e.jpg"
@@ -982,119 +982,119 @@
     },
     {
       "id": 77904,
-      "title": "Scott Spark (2017)",
+      "title": "Scott Spark",
       "year": "2017",
       "price": "3.163",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d8b163f17d2.jpg"
     },
     {
       "id": 77875,
-      "title": "Scott Foil (2018)",
+      "title": "Scott Foil",
       "year": "2018",
       "price": "1.549",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61db25ab64522.jpg"
     },
     {
       "id": 77859,
-      "title": "Cannondale Scalpel (2020)",
+      "title": "Cannondale Scalpel",
       "year": "2020",
       "price": "3.362",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61da0a378bc57.jpg"
     },
     {
       "id": 77829,
-      "title": "Cannondale F-Si (2019)",
+      "title": "Cannondale F-Si",
       "year": "2019",
       "price": "4.235",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61dd9d9ceab15.jpg"
     },
     {
       "id": 77823,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "1.254",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d5eb184231a.jpg"
     },
     {
       "id": 77816,
-      "title": "Cannondale  (2021)",
+      "title": "Cannondale ",
       "year": "2021",
       "price": "3.163",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d76618b7dac.jpg"
     },
     {
       "id": 77793,
-      "title": "Scott Scale (2019)",
+      "title": "Scott Scale",
       "year": "2019",
       "price": "1.667",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d740ce2a1ec.jpg"
     },
     {
       "id": 77787,
-      "title": "Scott Scale (2016)",
+      "title": "Scott Scale",
       "year": "2016",
       "price": "1.134",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d84d73dd0ff.jpg"
     },
     {
       "id": 77786,
-      "title": "Scott Foil (2019)",
+      "title": "Scott Foil",
       "year": "2019",
       "price": "4.552",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d83a9505f8e.jpg"
     },
     {
       "id": 77779,
-      "title": "Scott Addict (2021)",
+      "title": "Scott Addict",
       "year": "2021",
       "price": "4.034",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d81f8ebab3f.jpg"
     },
     {
       "id": 77778,
-      "title": "Scott Scale (2022)",
+      "title": "Scott Scale",
       "year": "2022",
       "price": "2.409",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d822a1492d2.jpg"
     },
     {
       "id": 77777,
-      "title": "Scott Scale (2022)",
+      "title": "Scott Scale",
       "year": "2022",
       "price": "5.183",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d825d76cd21.jpg"
     },
     {
       "id": 77776,
-      "title": "Scott Scale (2022)",
+      "title": "Scott Scale",
       "year": "2022",
       "price": "5.183",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d82639bc7e9.jpg"
     },
     {
       "id": 77775,
-      "title": "Scott Foil (2022)",
+      "title": "Scott Foil",
       "year": "2022",
       "price": "4.684",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d82715d70e5.jpg"
     },
     {
       "id": 77770,
-      "title": "Scott Spark (2022)",
+      "title": "Scott Spark",
       "year": "2022",
       "price": "4.259",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d824ca18897.jpg"
     },
     {
       "id": 77735,
-      "title": "Scott Spark (2020)",
+      "title": "Scott Spark",
       "year": "2020",
       "price": "4.168",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d4bbd5a4432.jpg"
     },
     {
       "id": 77714,
-      "title": "Scott Scale (2018)",
+      "title": "Scott Scale",
       "year": "2018",
       "price": "3.863",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d481bd4f634.jpg"
@@ -1108,77 +1108,77 @@
     },
     {
       "id": 77655,
-      "title": "Scott Scale (2020)",
+      "title": "Scott Scale",
       "year": "2020",
       "price": "2.209",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d3261868002.jpg"
     },
     {
       "id": 77652,
-      "title": "Cannondale Habit Neo (2021)",
+      "title": "Cannondale Habit Neo",
       "year": "2021",
       "price": "4.936",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d2165dbde57.jpg"
     },
     {
       "id": 77629,
-      "title": "Scott Addict (2019)",
+      "title": "Scott Addict",
       "year": "2019",
       "price": "2.245",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d30774d26b4.jpg"
     },
     {
       "id": 77618,
-      "title": "Scott Scale (2019)",
+      "title": "Scott Scale",
       "year": "2019",
       "price": "3.663",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d31101baef0.jpg"
     },
     {
       "id": 77595,
-      "title": "Cannondale Topstone (2021)",
+      "title": "Cannondale Topstone",
       "year": "2021",
       "price": "2.363",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cef49b3e97f.jpg"
     },
     {
       "id": 77577,
-      "title": "Scott Spark (2019)",
+      "title": "Scott Spark",
       "year": "2019",
       "price": "6.984",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d3438639cee.jpg"
     },
     {
       "id": 77497,
-      "title": "Scott Spark (2017)",
+      "title": "Scott Spark",
       "year": "2017",
       "price": "1.890",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61d2dc04a364e.jpg"
     },
     {
       "id": 77478,
-      "title": "Scott Spark (2019)",
+      "title": "Scott Spark",
       "year": "2019",
       "price": "5.483",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cdbb26121fc.jpg"
     },
     {
       "id": 77458,
-      "title": "Cannondale Scalpel (2018)",
+      "title": "Cannondale Scalpel",
       "year": "2018",
       "price": "2.774",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61ccb8ad0a2e0.jpg"
     },
     {
       "id": 77446,
-      "title": "Cannondale F-Si (2021)",
+      "title": "Cannondale F-Si",
       "year": "2021",
       "price": "2.115",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cc8d0648b66.jpg"
     },
     {
       "id": 77440,
-      "title": "Scott Genius (2020)",
+      "title": "Scott Genius",
       "year": "2020",
       "price": "2.081",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cc66774dc6f.jpg"
@@ -1192,21 +1192,21 @@
     },
     {
       "id": 77408,
-      "title": "Cannondale Trail (2022)",
+      "title": "Cannondale Trail",
       "year": "2022",
       "price": "1.065",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cc607027d9e.jpg"
     },
     {
       "id": 77360,
-      "title": "Cannondale Supersix EVO (2022)",
+      "title": "Cannondale Supersix EVO",
       "year": "2022",
       "price": "6.254",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cc43a344c91.jpg"
     },
     {
       "id": 77355,
-      "title": "Cannondale Moterra NEO (2021)",
+      "title": "Cannondale Moterra NEO",
       "year": "2021",
       "price": "5.784",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cb4a20186b2.jpg"
@@ -1220,84 +1220,84 @@
     },
     {
       "id": 77346,
-      "title": "Cannondale  (2018)",
+      "title": "Cannondale ",
       "year": "2018",
       "price": "1.536",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cb42b59d5e5.jpg"
     },
     {
       "id": 77298,
-      "title": "Scott SCALE 940 RED (2021)",
+      "title": "Scott SCALE 940 RED",
       "year": "2021",
       "price": "1.849",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61caf083a2a2e.jpg"
     },
     {
       "id": 77288,
-      "title": "Cannondale caad optimo 2 (2021)",
+      "title": "Cannondale caad optimo 2",
       "year": "2021",
       "price": "1.233",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cade8625037.jpg"
     },
     {
       "id": 77285,
-      "title": "Cannondale Caad Optimo (2021)",
+      "title": "Cannondale Caad Optimo",
       "year": "2021",
       "price": "1.400",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cadfd93ee5a.jpg"
     },
     {
       "id": 77270,
-      "title": "Cannondale CAAD OPTIMO 4 (2021)",
+      "title": "Cannondale CAAD OPTIMO 4",
       "year": "2021",
       "price": "897",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cadc3fba713.jpg"
     },
     {
       "id": 77263,
-      "title": "Cannondale Caad Optimo (2021)",
+      "title": "Cannondale Caad Optimo",
       "year": "2021",
       "price": "1.429",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cad7c235f1b.jpg"
     },
     {
       "id": 77255,
-      "title": "Cannondale Topstone (2021)",
+      "title": "Cannondale Topstone",
       "year": "2021",
       "price": "1.211",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61cad5627b2a4.jpg"
     },
     {
       "id": 77231,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "695",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c9c8224c041.jpg"
     },
     {
       "id": 77230,
-      "title": "Scott ADDICT RC 30 (2022)",
+      "title": "Scott ADDICT RC 30",
       "year": "2022",
       "price": "4.372",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c9f6719a8a1.jpg"
     },
     {
       "id": 77221,
-      "title": "Scott Foil (2016)",
+      "title": "Scott Foil",
       "year": "2016",
       "price": "2.199",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c968df3daf8.jpg"
     },
     {
       "id": 77191,
-      "title": "Cannondale SystemSix (2021)",
+      "title": "Cannondale SystemSix",
       "year": "2021",
       "price": "6.256",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c747cc18f78.jpg"
     },
     {
       "id": 77170,
-      "title": "Cannondale Supersix EVO (2021)",
+      "title": "Cannondale Supersix EVO",
       "year": "2021",
       "price": "4.383",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c9a1b85fce4.jpg"
@@ -1311,56 +1311,56 @@
     },
     {
       "id": 77096,
-      "title": "Scott Scale (2018)",
+      "title": "Scott Scale",
       "year": "2018",
       "price": "2.963",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c38a97836ae.jpg"
     },
     {
       "id": 77075,
-      "title": "Scott E-Genius (2018)",
+      "title": "Scott E-Genius",
       "year": "2018",
       "price": "4.228",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c42303da16e.jpg"
     },
     {
       "id": 77037,
-      "title": "Scott Foil (2020)",
+      "title": "Scott Foil",
       "year": "2020",
       "price": "7.145",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c34e3540e50.jpg"
     },
     {
       "id": 77034,
-      "title": "Scott Scale (2017)",
+      "title": "Scott Scale",
       "year": "2017",
       "price": "1.625",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c37cd33417c.jpg"
     },
     {
       "id": 77023,
-      "title": "Cannondale Topstone Carbon (2021)",
+      "title": "Cannondale Topstone Carbon",
       "year": "2021",
       "price": "2.690",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c46a92a0cff.jpg"
     },
     {
       "id": 77013,
-      "title": "Cannondale Moterra NEO (2022)",
+      "title": "Cannondale Moterra NEO",
       "year": "2022",
       "price": "4.260",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c44d0d5d7f0.jpg"
     },
     {
       "id": 77012,
-      "title": "Cannondale Supersix EVO (2019)",
+      "title": "Cannondale Supersix EVO",
       "year": "2019",
       "price": "1.713",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c43d637e3e9.jpg"
     },
     {
       "id": 77011,
-      "title": "Cannondale Moterra NEO (2022)",
+      "title": "Cannondale Moterra NEO",
       "year": "2022",
       "price": "5.384",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c4440f50500.jpg"
@@ -1374,28 +1374,28 @@
     },
     {
       "id": 76980,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "671",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c30e65178c5.jpg"
     },
     {
       "id": 76970,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "671",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c30f57510f3.jpg"
     },
     {
       "id": 76969,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "784",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c30b331edf2.jpg"
     },
     {
       "id": 76960,
-      "title": "Cannondale Trail (2021)",
+      "title": "Cannondale Trail",
       "year": "2021",
       "price": "1.120",
       "image": "https://s3-eu-west-1.amazonaws.com/tuvalum/product_photos/61c306b756b35.jpg"
